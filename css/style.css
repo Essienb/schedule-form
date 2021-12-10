@@ -1,0 +1,16 @@
+.page-content {
+    background-color: #e3e7ea;
+}
+
+.form-section{
+    background-color: white;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.banner-section{
+    background-image: url(../images/pexels-the-lazy-artist-gallery-1321943.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px 30px 30px 0px;
+}
